@@ -1,0 +1,9 @@
+
+
+api key: 2378c5afba54e6fcb20f5470d2bc5c9f
+
+
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=comilla&units=metric&appid=2378c5afba54e6fcb20f5470d2bc5c9f
